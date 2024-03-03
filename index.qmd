@@ -1,13 +1,9 @@
 ---
-title: "quartoCourseBlog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  image-placeholder: "images/logo.png"
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Welcome to my site"
 ---
+
+I am a fourth year student at the University of Toronto. I am majoring in economics with a focus in data analytics, double minor in statistics and political science. I am also completing the certificate in business fundamental offered by the the Rotman School of Management as a part of my degree.
+
+I am currently the cash manager at Sporting Life Sherway Gardens congruently well completing my degree. My tenure at Sporting Life has been marked by a progression through key roles, ultimately culminating in my position as Cash Department Manager. In this capacity, I oversee the intricacies of daily cash management, ensuring a meticulous approach to reconciliation, deposit handling, and adherence to loss prevention protocols.
+
+As a Cash Team Lead, I demonstrated a comprehensive skill set, seamlessly navigating the responsibilities of the cash office while concurrently engaging with customers to provide excellent customer service. This dual-role underscored my versatility and commitment to maintaining operational excellence. Previously I was also a service shop tech, e-commerce associate and sales associate.
