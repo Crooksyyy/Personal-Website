@@ -1,3 +1,16 @@
 ---
-title: "Resume"
+title: "Links and Resume"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gavin-crooks-51ba25272/ 
+    - icon: github
+      text: Github
+      href: https://github.com/Crooksyyy
 ---
+
+## Resume 
+
+![](Resume.pdf){fig-align="center"}
