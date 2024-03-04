@@ -9,8 +9,11 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Crooksyyy
+    - icon: Resume 
+      text: Resume
+      href: https://github.com/Crooksyyy/Personal-Website/blob/master/Resume.pdf 
 ---
 
 ## Resume 
 
-![](Resume.pdf){fig-align="center"}
+[![](Resume.pdf){fig-align="center"}](Resume.pdf)
