@@ -1,5 +1,5 @@
 ---
-title: "Links and Resume"
+title: "Links"
 about:
   template: jolla
   links:
@@ -12,7 +12,3 @@ about:
     - text: Resume
       href: https://github.com/Crooksyyy/Personal-Website/blob/master/Resume.pdf 
 ---
-
-## Resume 
-
-[![](Resume.pdf){fig-align="center"}](Resume.pdf)

@@ -1,0 +1,87 @@
+---
+title: "Resume"
+about:
+  template: jolla
+  links: 
+    - icon: resume 
+      text: Link to Resume
+      href: https://github.com/Crooksyyy/Personal-Website/blob/master/Resume.pdf 
+---
+
+## Resume PDF
+
+[![](Resume.pdf){fig-align="center"}](Resume.pdf)
+
+## Resume 
+
+G A V I N C R O O K S
+
+E D U C A T I O N
+
+University of Toronto (HBA)
+
+Economics Major with a focus in Data Analytics
+
+Double Minor in Statistics and Political science
+
+Certificate of Business Fundamentals
+
+R E L E V E N T C O U R S E S
+
+Probability, Stats and Data Analysis
+
+Data Analysis in Practice
+
+Fundamentals of Financial Accounting
+
+Geographic Information and Mapping
+
+Data Analytics and Applied Econometrics
+
+Method in Data Analysis I
+
+W O R K E X P E R I E N C E
+
+Sporting Life \| Cash Department Manager \| July 2022 - Present
+
+Worked in liaison with cooperate accounting by completing tasks such as the daily reconciliation, reported billings and paid outs
+
+Accountable for cash office competencies including daily safe count, deposit pick up, and weekly deposit report
+
+Managed the cash department to ensure high levels of cash competency were maintained, with a focus on loss prevention
+
+Ensured loss prevention standards were met through the facilitation of training's and coaching on spot or after events
+
+Sporting Life \| Cash Team Lead \| October 2021 - July 2022
+
+Ensured cash office and cash team were put in a position to complete duties
+
+Built weekly job lists to outline individuals duties and important cooperate communication
+
+Responsible for bank deposits, money drop offs and pick ups
+
+Sporting Life \| Sales associate and Service Shop Technician \| September 2018 - October 2021
+
+Completed a number of services on customers bikes, skis and snowboards
+
+Ensured service orders were done accurately and filed correctly to adhere to company standards
+
+Sold over \$500 000 by providing excellent customer service and product knowledge
+
+Worked to offer personable and authentic communications with customers
+
+T E C H N I C A L S K I L L S
+
+Knowledgeable in Python, R and Stata
+
+MS Word, Excel, and PowerPoint
+
+Problem-Solving and Quick Learner
+
+Leadership, Collaboration and Communication
+
+Management and Customer service experience
+
+R E F R E N C E S
+
+Available Upon Requests
