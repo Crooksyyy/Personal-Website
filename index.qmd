@@ -1,6 +1,10 @@
 ---
-title: "Welcome to my site"
+title: "Gavin Crooks""
 ---
+
+# Welcome to my site
+
+# Bio
 
 ## Education 
 
